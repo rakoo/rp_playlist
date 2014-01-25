@@ -1,5 +1,5 @@
-A little utility to fetch Radio Paradise's title and output it on
-stdout.
+A little utility to fetch [Radio Paradise](http://www.radioparadise.com/rp_2.php?)'s 
+currently playing song and output it on stdout.
 
 Built with go; to install it, run the usual
 
